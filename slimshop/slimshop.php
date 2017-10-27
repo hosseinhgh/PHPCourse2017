@@ -10,7 +10,7 @@ require_once 'vendor/autoload.php';
 DB::$dbName = 'slimshop';
 DB::$user = 'slimshop';
 DB::$encoding = 'utf8';
-DB::$password = '2T8LAhl74gaLQenY';
+DB::$password = 'KYU15ZBecWCiB7Rm';
 
 // Slim creation and setup
 $app = new \Slim\Slim(array(
